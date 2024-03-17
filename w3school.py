@@ -6,6 +6,8 @@
 # //..//...//..//..codeChalenge..//..//..//..//..sololearn..//.. exit() ... help(print)
 
 
+# lets finish solo learn intro..??? and interemieate pythong?  
+
 
 
 exit()
@@ -1424,7 +1426,6 @@ x=5
 print(x>>2<<x)
 
 '''
-
 
 
 
